@@ -14,7 +14,7 @@
  - [ ] [video](https://www.youtube.com/watch?v=rUDC13pfB5E&t=202s&ab_channel=ArabicCompetitiveProgramming)
  ### frequency array 
  - [ ] [video](https://www.youtube.com/watch?v=kQGTjql8WjI&t=430s&ab_channel=MuhammedAfifi)
- ### Complexity analysis 
+ ### Complexity analysis **(optional)**
  - [ ] [video1](https://www.youtube.com/watch?v=sHhVsGQz9MI&t=627s&pp=ygUTY29tcGxleGl0eSBhbmFseXNpcw%3D%3D)
  - [ ] [vidoe2](https://www.youtube.com/watch?v=D6xkbGLQesk&pp=ygUTY29tcGxleGl0eSBhbmFseXNpcw%3D%3D)
  - [ ] [problems](https://www.youtube.com/watch?v=Day3_mw1F-Y&pp=ygUTY29tcGxleGl0eSBhbmFseXNpcw%3D%3D)
