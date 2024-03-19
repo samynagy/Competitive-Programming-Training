@@ -4,7 +4,7 @@
 - [ ] [video](https://www.youtube.com/watch?v=krRT_US9Ll0) 
       
 
-### Function 
+### What is Function and how to use ?
 - [ ] [video](https://www.youtube.com/watch?v=z61hvizsrZs)
 - [ ]  [video](https://www.youtube.com/watch?v=ksh0QLTaWt0)
 ### recorded session 
