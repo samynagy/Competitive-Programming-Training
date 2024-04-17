@@ -1,4 +1,9 @@
-***** 
+*****  Repetions and failure 
 - if u have a string let's call it S and you want to check if there is a small string let's call it T and S is a some of concatenations of T ? 
 make a Failure table for string S and get the number of the last element of -> Failure [S.size()-1] and subtract it from S.size() -> it mean this block of this size can be match T to verifey it check (S.size() % Failure[S.size()-1] == 0 ? 
 if true that meaning there are valid T else otherwise 
+---------------------------------------------------------------
+- with the previous example lets say a new problem if u have to strings S and T and want to chack if S is some of concatenations of given T ?
+run KMP and find all positions of matching and check if the diffrence between a[i] - a[i-1] == T.size() -> a is an array of matching positions . 
+can solve the pervious problem with the same techniche and 2nd matching represent the lenth of T -> try example but make sure to make S = S+S -> ( may be S = T  -> one repetion ) .  
+-----------------------------------------------------------
