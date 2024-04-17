@@ -1,0 +1,4 @@
+***** 
+- if u have a string let's call it S and you want to check if there is a small string let's call it T and S is a some of concatenations of T ? 
+make a Failure table for string S and get the number of the last element of -> Failure [S.size()-1] and subtract it from S.size() -> it mean this block of this size can be match T to verifey it check (S.size() % Failure[S.size()-1] == 0 ? 
+if true that meaning there are valid T else otherwise 
