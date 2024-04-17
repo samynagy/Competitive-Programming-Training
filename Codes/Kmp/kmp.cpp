@@ -1,4 +1,4 @@
-//// build failure function ( longest proper prefix equal longest suffix for each suffix
+//// build failure function ( longest proper prefix equal longest suffix for each suffix )
 vector<int> ComputeFailureTable(const string &pat) {
     int n = pat.size();
     vector<int> ret(n);
