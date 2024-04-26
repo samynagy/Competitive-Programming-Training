@@ -9,18 +9,24 @@
  
 
  **Algorithm A vs Algorithm B**
+ 
 - [ ]  [intro](https://youtu.be/8QDFAK8Y5Ts?si=gPZtiGAZ46jzl5Wd)
  - [ ]  [video](https://www.youtube.com/watch?v=Day3_mw1F-Y&t=775s)
  - [ ]  [video](https://www.youtube.com/watch?v=w7gYfHx8Z1Q&t=41s)
- **Asymptotic Notation :** 
+
+ **Asymptotic Notation :**
+
 - [ ]  [video](https://www.youtube.com/watch?v=oV6YzMr1PBY)
+      
 **Big - O Notation :**
+
  - [ ]  [video](https://www.youtube.com/watch?v=nrSVRPYy76c)
+
  **Big O Proof :**
 
   - [ ]  [video](https://youtu.be/yG1l1NiJhhc?si=rJDCjR3o97hliPkl)
 
-  **Reccomended Material :** 
+ **Reccomended Material :** 
 
 - [ ] [video](https://youtu.be/heRWrCIQFzQ?si=UNs8PS8xpZNwUEo9)
 
@@ -39,6 +45,7 @@
 
 **GCD & LCM :** 
 - [ ]  [video](https://www.youtube.com/watch?v=YklnFXpq0ZE&list=PLPt2dINI2MIY7l5zyFd1W28rei3b-AXaJ&index=6)
+      
 **LOG(X)  :** 
 - you can get the number digits by using floor( Log10(number) ) + 1  
  ![log](https://i.ibb.co/QMpNRGS/Screenshot-2023-07-16-104250.png)
